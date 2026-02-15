@@ -86,16 +86,18 @@ cd NotesX
 
 
 ### 2️⃣ Install backend dependencies
+```
 cd backend
 npm install
 npm run dev
-
+```
 
 ### 3️⃣ Install frontend dependencies
+```
 cd frontend
 npm install
 npm run dev
-
+```
 
 ---
 
